@@ -7,7 +7,7 @@ use App\Smartphone;
 
 class SmartphoneController extends Controller
 {
-    //
+    //created by razman
    public function mobile()
     {
 		$smartphones = Smartphone::all();
